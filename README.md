@@ -38,12 +38,14 @@ EmployeeManagementSystem/
 │ ├── package.json
 ├── README.md
 
-## **Project Images
+---
+
+## **Project Images**
 
 <img width="1366" height="596" alt="{8ABC73F2-EE77-47A8-BF6A-B60CCBFFD6B6}" src="https://github.com/user-attachments/assets/3dd67d78-6f50-4dd9-a278-74461c3383ef" />
 
 <img width="1366" height="607" alt="{E4E985B5-B980-4EF2-9E89-80AE42D9BCE0}" src="https://github.com/user-attachments/assets/ce02ad15-6dc1-4aa4-b42c-bba959634d6b" />
 
-<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/7618da0e-7a28-414a-843d-6b5e178ef416" />
+<img width="1353" height="599" alt="{67F11B2B-CCDC-425D-993C-9AEC7CB8353D}" src="https://github.com/user-attachments/assets/f9efcfc3-ddb4-46ba-8e99-4808772bd0e5" />
 
 
